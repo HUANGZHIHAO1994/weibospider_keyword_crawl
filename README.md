@@ -86,7 +86,7 @@
 
 <div>
     <img
-src='https://github.com/HUANGZHIHAO1994/weibospider-keyword/blob/master/weibospider2.0/images/content_sample.png?raw=true'
+src='http://chuantu.xyz/t6/740/1596952432x148009570.png'
          >
 </div>
 
@@ -94,7 +94,7 @@ src='https://github.com/HUANGZHIHAO1994/weibospider-keyword/blob/master/weibospi
 
 <div>
     <img
-src='https://github.com/HUANGZHIHAO1994/weibospider-keyword/blob/master/weibospider2.0/images/comment_sample.png?raw=true'     
+src='http://chuantu.xyz/t6/740/1596952485x1033347913.png'     
          >
 </div>
 
