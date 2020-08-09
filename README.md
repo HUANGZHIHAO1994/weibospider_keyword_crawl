@@ -1,5 +1,5 @@
 <div align="left">
-    <img src='http://chuantu.xyz/t6/740/1596860921x1033347913.jpg?raw=true' height="50" width="50" >
+    <img src='http://chuantu.xyz/t6/740/1596860921x1033347913.jpg' height="50" width="50" >
  </div>
 
 
