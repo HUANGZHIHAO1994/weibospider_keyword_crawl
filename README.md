@@ -86,7 +86,7 @@
 
 <div>
     <img
-src='http://chuantu.xyz/t6/740/1596952432x148009570.png'
+src='http://i1.fuimg.com/724945/119760b5eebed0f7.png'
          >
 </div>
 
@@ -94,7 +94,7 @@ src='http://chuantu.xyz/t6/740/1596952432x148009570.png'
 
 <div>
     <img
-src='http://chuantu.xyz/t6/740/1596952485x1033347913.png'     
+src='http://i1.fuimg.com/724945/64ee28923a441cfd.png'     
          >
 </div>
 
