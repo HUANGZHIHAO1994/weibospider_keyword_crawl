@@ -20,7 +20,7 @@ from selenium.webdriver.chrome.options import Options
 
 # print(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 # sys.path.append(os.getcwd())
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__),"../..")))
+# sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__),"../..")))
 from sina.settings import LOCAL_MONGO_HOST, LOCAL_MONGO_PORT, DB_NAME
 
 TEMPLATES_FOLDER = os.getcwd() + '/sina/account_build/templates/'
