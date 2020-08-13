@@ -1,5 +1,5 @@
 <div align="left">
-    <img src='http://i1.fuimg.com/724945/b77a8439ea51e080.jpg' height="50" width="50" >
+    <img src='https://github.com/HUANGZHIHAO1994/storage/blob/master/images/IMG_1869.jpg?raw=true' height="50" width="50" >
  </div>
 
 
@@ -66,7 +66,7 @@
 
 
 
-# 2.  使用说明
+## 2.  使用说明
 
 1. **按照account_sample.txt将微博账号写入account.txt，运行login.py**
 
@@ -79,28 +79,4 @@
 4. **修改weibo_spider.py中的爬取期间**（比如想爬2018年整一年的微博数据在date1处：01/01/2018', '12/31/2018）
 
 5. **运行start.py**
-
-# 3.  爬取结果示例
-
-微博内容示例
-
-<div>
-    <img
-src='http://i1.fuimg.com/724945/119760b5eebed0f7.png'
-         >
-</div>
-
-微博评论示例
-
-<div>
-    <img
-src='http://i1.fuimg.com/724945/64ee28923a441cfd.png'     
-         >
-</div>
-
-
-
-
-
-
 
